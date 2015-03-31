@@ -12,6 +12,7 @@ MATLAB computes joint commands and send messages to the simulator through 'desir
 (4) Go back to Matlab and run 'RollingHump.m' in the folder '/kinematics';
 (5) Then in terminal run: ./example
 
+
 * Note:
 It is recommended that MATLAB workspace should always be setted as '_CODE__DIR_/autoRollingHump'.
 
